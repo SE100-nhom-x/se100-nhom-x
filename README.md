@@ -3,6 +3,7 @@
 > Xoá dòng này rồi viết 5 dòng mô tả hệ thống: **ai** dùng, để **làm gì**, và điều gì **không được phép** xảy ra. Giảng viên đọc phần này đầu tiên khi duyệt đề tài, nên viết cho rõ.
 
 ## Thành viên
+
 Nguyễn Đức Mạnh - @kiezroth
 
 | Tên | GitHub | Chủ trì mốc |
