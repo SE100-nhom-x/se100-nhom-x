@@ -9,7 +9,11 @@ Nguyễn Đức Mạnh - @kiezroth
 
 =======
 Phạm Nhật Minh @Mun12082023
+<<<<<<< HEAD
 >>>>>>> fd2f7d4 (Thêm Phạm Nhật Minh vào danh sách thành viên)
+=======
+
+>>>>>>> 59c4935 (Thêm <tên> vào danh sách thành viên)
 | Tên | GitHub | Chủ trì mốc |
 |---|---|---|
 | | | M1: Yêu cầu |
