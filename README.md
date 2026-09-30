@@ -3,17 +3,10 @@
 > Xoá dòng này rồi viết 5 dòng mô tả hệ thống: **ai** dùng, để **làm gì**, và điều gì **không được phép** xảy ra. Giảng viên đọc phần này đầu tiên khi duyệt đề tài, nên viết cho rõ.
 
 ## Thành viên
-<<<<<<< HEAD
-
 Nguyễn Đức Mạnh - @kiezroth
 
-=======
-Phạm Nhật Minh @Mun12082023
-<<<<<<< HEAD
->>>>>>> fd2f7d4 (Thêm Phạm Nhật Minh vào danh sách thành viên)
-=======
+Phạm Nhật Minh- @Mun12082023
 
->>>>>>> 59c4935 (Thêm <tên> vào danh sách thành viên)
 | Tên | GitHub | Chủ trì mốc |
 |---|---|---|
 | | | M1: Yêu cầu |
