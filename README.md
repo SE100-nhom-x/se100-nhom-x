@@ -16,7 +16,7 @@ Phạm Nhật Minh- @Mun12082023
 
 ## URL
 
-- Bản chạy: https://
+- Bản chạy: [https://](https://se100-nhom-x.pages.dev/)
 - Pipeline: xem tab Actions
 
 ## Cấu trúc repo
