@@ -1,0 +1,22 @@
+name: Kiểm mốc
+
+# Chạy scripts/kiem_moc.py trên mọi PR từ nhánh moc/Mx vào main.
+# Repo được tạo từ bản zip của môn nên thiếu .github/; tệp này dựng lại workflow đó.
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  kiem-moc:
+    if: startsWith(github.head_ref, 'moc/')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # M0 đếm email tác giả trên toàn bộ lịch sử
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Kiểm mốc theo tên nhánh
+        run: python scripts/kiem_moc.py
