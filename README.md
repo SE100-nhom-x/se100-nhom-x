@@ -1,6 +1,15 @@
-# [Tên hệ thống] — SE100 · Nhóm __
+# Quản lý Dịch vụ Giao hàng Thương mại điện tử — SE100 · Nhóm [ ]
 
-> Xoá dòng này rồi viết 5 dòng mô tả hệ thống: **ai** dùng, để **làm gì**, và điều gì **không được phép** xảy ra. Giảng viên đọc phần này đầu tiên khi duyệt đề tài, nên viết cho rõ.
+Hệ thống quản lý dịch vụ giao hàng cho các shop bán hàng online, gồm ba vai: Chủ shop, Điều phối viên và Shipper.
+
+Chủ shop tạo đơn giao hàng, theo dõi trạng thái đơn và yêu cầu huỷ khi đơn chưa được lấy hàng.
+
+Điều phối viên phân công shipper cho từng đơn và xử lý các đơn giao thất bại hoặc phải hoàn về shop.
+
+Shipper xem các đơn được giao cho mình và cập nhật trạng thái lấy hàng, đang giao, đã giao hoặc giao thất bại.
+
+Không được phép xảy ra: một đơn có hai shipper cùng lúc, hoặc đơn đã lấy hàng bị huỷ trực tiếp thay vì chuyển sang xử lý hoàn.
+
 
 ## Thành viên
 Nguyễn Đức Mạnh - @kiezroth
